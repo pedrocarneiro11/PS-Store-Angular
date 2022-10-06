@@ -6,9 +6,8 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./card-label.component.css']
 })
 export class CardLabelComponent implements OnInit {
-
   @Input()
-  gameLabel:string="Digital";
+  gameLabel:string="";
 
   constructor() { }
 
