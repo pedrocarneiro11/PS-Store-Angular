@@ -3,6 +3,7 @@
   margin: auto;
   padding: 50px;
   display: flex;
+  height: 100%;
 
   justify-content: space-around;
   align-items: baseline;
